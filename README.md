@@ -209,6 +209,7 @@ Countdown animations can be enabled globally or for specific giveaways, dependin
 ## Support and Contact
 
 For any questions, issues, or feedback, use the `/support` command or contact the development team through the bot's official support server.
+[Join our Support Server](https://discord.gg/puXpZPaCMZ)  
 
 ## Recent Updates
 
